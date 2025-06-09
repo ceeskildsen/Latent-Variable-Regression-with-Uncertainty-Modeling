@@ -13,7 +13,7 @@ This repository contains the code, data, figures, and tables supporting the manu
 ## Data & Code Availability
 
 - **Current status:** Private while under review. An archived snapshot of this repository has been deposited in Zenodo under embargo.  
-- **DOI (under embargo):** 10.5281/zenodo.XXXXXXX
+- **DOI (under embargo):** 10.5281/zenodo.15625723
 
 Once the manuscript is published, this repository will be:
 1. Made public on GitHub.  
@@ -37,7 +37,7 @@ Once the manuscript is published, this repository will be:
 
 When citing the repository and associated archived snapshot, please use:
 
-C.E. Eskildsen (2025). Latent Variable Regression with Observation-Specific Uncertainty Modeling (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+C.E. Eskildsen (2025). Latent Variable Regression with Observation-Specific Uncertainty Modeling (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15625723
 
 ---
 
