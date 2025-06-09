@@ -30,10 +30,11 @@ Once the manuscript is published, this repository will be:
 ├── tables/            ← Generated tables (CSV/TSV and formatted outputs)
 ├── manuscript/        ← LaTeX/Markdown source and supplementary files
 └── README.md          ← This file
-
+``` 
 ---
 
 ## How to Cite
+
 When citing the repository and associated archived snapshot, please use:
 
 C.E. Eskildsen (2025). Latent Variable Regression with Observation-Specific Uncertainty Modeling (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
